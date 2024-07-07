@@ -1,0 +1,19 @@
+.alpha {
+    background-color: #ffb6c1;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.alpha.cooler {
+    font-size: 24px;
+}
+
+#beta {
+    color: blue;
+    font-size: 36px;
+}
+
+#gamma {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold; 
+}
